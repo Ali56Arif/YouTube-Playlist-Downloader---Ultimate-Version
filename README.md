@@ -21,7 +21,7 @@
 
 ## 📥 Download  
 ### 🔗 Get the Latest Version  
-📌 [**Download YouTube Playlist Downloader (EXE)**](https://mega.nz/file/PYQUHAyb#15bppLSI-PKoOEUtySmUxqDvnRE_O8S7anJmJYkt5hE)  
+📌 [**Download YouTube Playlist Downloader (EXE)**](https://github.com/Ali56Arif/YouTube-Playlist-Downloader---Ultimate-Version/releases/tag/1.0.1)  
 
 **Portable Version Available!** No installation required! 🚀  
 
@@ -30,7 +30,7 @@
 ## 🛠 How to Install & Use  
 
 ### **Option 1: Run the Portable EXE (No Installation Required)**
-1. **Download** the latest version from the [Releases](https://mega.nz/file/PYQUHAyb#15bppLSI-PKoOEUtySmUxqDvnRE_O8S7anJmJYkt5hE) section.  
+1. **Download** the latest version from the [Releases](https://github.com/Ali56Arif/YouTube-Playlist-Downloader---Ultimate-Version/releases/tag/1.0.1) section.  
 2. **Extract the ZIP file** (if applicable).  
 3. **Run `YouTubeDownloader.exe`** – Start downloading instantly! 🎉  
 
